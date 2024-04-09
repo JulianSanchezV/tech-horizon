@@ -1,0 +1,1 @@
+import{Q as o,la as a,ma as r,oa as i,pa as s}from"./chunk-LAZVRYSM.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-products"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,c){n&1&&(a(0,"p"),i(1,"products works!"),r())}});let t=e;return t})();export{f as default};
